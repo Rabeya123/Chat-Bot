@@ -5,7 +5,7 @@ convo=[
 &#39;hello&#39;,
 &#39;hey there!&#39;,
 &#39;what is your name?&#39;,
-&#39;my name is Bot,i am created by noman&#39;,
+&#39;my name is Bot,i am created by rabeya&#39;,
 &#39;how are you?&#39;,
 &#39;i am doing great these days&#39;,
 &#39;thanktyou&#39;,
